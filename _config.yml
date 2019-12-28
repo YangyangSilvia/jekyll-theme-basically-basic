@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: YangyangSilvia's Personal Website
+title: 杨阳的个人Jekyll网站
 email:
-description: "YangyangSilvia's Personal Website"
+description: "yangyang"
 baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
 url: "https://silvia_921326130.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
