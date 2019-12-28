@@ -1,4 +1,5 @@
 ---
 layout: home
-image£º assets/images/banner_homepage.jpg
+
+image£ºassets/images/banner_homepage.jpg
 ---
