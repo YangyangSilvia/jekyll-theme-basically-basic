@@ -17,7 +17,7 @@ lang: zh-CN
 title: 杨阳的个人Jekyll网站
 email:
 description: "yangyang"
-baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/silvia_921326130" # the optional subpath of your site, e.g. "/blog"
 url: "https://silvia_921326130.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "yangyang"
