@@ -217,7 +217,7 @@ categories:
 ```
 ---
 # 十、流程图
-```
+
 graph LR
       style A fill:red
       style B fill:yellow
@@ -234,6 +234,6 @@ graph LR
       B-->E{大数据}
       C-->F(4.信息可视化技术)
       F----方法二.前端用户与视觉界面设计
-```
+
       
 
