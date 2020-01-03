@@ -98,7 +98,7 @@ categories:
 ********
 
 # 五、图片
-+ 写法：![图片alt](图片地址 ''图片title'')（图片alt就是显示在图片下面的文字，相当于对图片内容的解释。/图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加）
++ 写法：详见下面示例（图片alt就是显示在图片下面的文字，相当于对图片内容的解释。/图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加）
 + 示例：
 ```
 ![兔子](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576317750498&di=f0ee1654888e2c7816a6b0cff4bdb5ba&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201803%2F20%2F20180320194909_voxxm.jpg)
@@ -106,6 +106,7 @@ categories:
 + 效果：
 
 ![兔子](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576317750498&di=f0ee1654888e2c7816a6b0cff4bdb5ba&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201803%2F20%2F20180320194909_voxxm.jpg)
+
 ***
 # 六、超链接
 + 写法：[超链接名](超链接地址 "超链接title")（与五中的图片相似，只少了一个！号）
@@ -216,7 +217,7 @@ categories:
 ```
 ---
 # 十、流程图
-```
+
 graph LR
       style A fill:red
       style B fill:yellow
@@ -233,5 +234,4 @@ graph LR
       B-->E{大数据}
       C-->F(4.信息可视化技术)
       F----方法二.前端用户与视觉界面设计
-      
 
