@@ -216,23 +216,3 @@ categories:
 (```)
 ```
 ---
-# 十、流程图
-```
-graph LR
-      style A fill:red
-      style B fill:yellow
-      style C fill:yellow
-      style D fill:PURPLE
-      style E fill:PURPLE
-      style F fill:ORANGE
-      A[19级]-->B[网络与新媒体技术与协作]
-      B----3.新媒体概论
-      B----5.大数据
-      A-->C[网页设计与协作]
-      C----方法一.产品网站运营与f管理
-      B-->D[新媒体概论]
-      B-->E{大数据}
-      C-->F(4.信息可视化技术)
-      F----方法二.前端用户与视觉界面设计
-
-```
