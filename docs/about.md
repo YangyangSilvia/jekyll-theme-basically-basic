@@ -1,7 +1,35 @@
 ---
-title: "About"
+title: "关于我"
 layout: about
 ---
+
+## 个人基本信息
+* 姓名：杨阳
+* 性别：女
+* 邮箱：Silvia921326130@163.com
+* 手机号码：18475708125
+* 兴趣爱好：小说、电影、音乐
+* 籍贯：广东
+
+## 教育经历
+* 中山大学南方学院-网络与新媒体专业学生（本科在读）
+
+## 工作经历
+**【经历1】中山大学南方学院-网络与新媒体学生（本科）**
+* 网页设计课程中与小组同学合作仿爱奇艺页面设计，实现利用css设计简单页面。
+* 配合同学参与合作、查询资料。
+* 主要参与爱奇艺的静态页面开发工作，要求在网路上显示简单模板。
+
+**【经历2】中山大学南方学院-网页设计（学生）**
+* 深度参与小组作业svg的全动画实验、实现其简单易懂与缩放。
+
+**【经历3】学工部通讯社-采编部干事**
+* 参与国奖获得者的采访工作，编写任务文稿，参与校奖项颁奖典礼
+
+## 自我评价
+* 吃苦耐劳，与人为善
+* 学习与适应能力强
+* 擅于与他人融洽合作
 
 Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
