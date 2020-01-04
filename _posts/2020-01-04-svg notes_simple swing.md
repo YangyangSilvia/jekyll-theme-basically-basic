@@ -16,7 +16,7 @@ tags:
     g#svg1{animation-play-state:running;
            -webkit-animation:swinging 1s ease-in-out alternate infinite;
            -moz-animation:swinging 1s ease-in-out alternate infinite;}
-    g#svg:hover {
+    g#svg1:hover {
       -webkit-transform: rotateX(1600deg);
       transform: rotateY(1600deg);
   }
@@ -74,4 +74,8 @@ tags:
 </g>
 </svg>
 </head>
+<body>
+  <p>超级大的相机像时钟一样摇来摇去！
+  </p>
+</body>
 
