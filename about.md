@@ -8,6 +8,7 @@ image: assets/images/banner_about me.png
 * 性别：女
 * 邮箱：Silvia921326130@163.com
 * 手机号码：18475708125
+* 学号：1910130110
 * 兴趣爱好：小说、电影、音乐
 * 籍贯：广东
 
