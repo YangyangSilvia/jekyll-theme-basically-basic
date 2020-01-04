@@ -3,9 +3,9 @@ layout: page
 title: duang!duang!duang!这是一组会摇晃的闹钟~
 excerpt_separator: "<!--more-->"
 categories:
-     - svg笔记
+     - SVG笔记
 tags:
-   - svg
+   - SVG
 ---
 
 
@@ -16,6 +16,10 @@ tags:
     g#svg1{animation-play-state:running;
            -webkit-animation:swinging 1s ease-in-out alternate infinite;
            -moz-animation:swinging 1s ease-in-out alternate infinite;}
+    g#svg:hover {
+      -webkit-transform: rotateX(1600deg);
+      transform: rotateY(1600deg);
+  }
     @keyframes swinging {
     0% {
        -webkit-transform: rotate(6deg);
@@ -34,6 +38,8 @@ tags:
        transform-origin: top center;
     }
 }
+
+  }
 <!--g#svg1{transform:translate(300px);}-->
                    
 </style>
@@ -67,4 +73,5 @@ tags:
   <path style="fill:#444B54;" d="M432,392.6c-3.2,0-6.4-1.2-8.4-3.6c-0.4-0.4-1.2-1.2-1.6-2s-0.8-1.2-1.2-2c-0.4-0.8-0.4-1.6-0.8-2.4   c0-0.8-0.4-1.6-0.4-2.4s0-1.6,0.4-2.4c0-0.8,0.4-1.6,0.8-2.4s0.8-1.6,1.2-2c0.4-0.8,0.8-1.2,1.6-2c0.4-0.4,1.2-1.2,1.6-1.6   c0.8-0.4,1.2-0.8,2-1.2c0.8-0.4,1.6-0.4,2.4-0.8c1.6-0.4,3.2-0.4,4.8,0c0.8,0,1.6,0.4,2.4,0.8s1.6,0.8,2,1.2   c0.8,0.4,1.2,0.8,1.6,1.6c2.4,2.4,3.6,5.2,3.6,8.4c0,0.8,0,1.6-0.4,2.4c0,0.8-0.4,1.6-0.8,2.4s-0.8,1.6-1.2,2   c-0.4,0.8-0.8,1.2-1.6,2C438.4,391.4,435.2,392.6,432,392.6z"/>
 </g>
 </svg>
-</body>
+</head>
+
