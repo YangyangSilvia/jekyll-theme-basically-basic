@@ -12,15 +12,6 @@ tags:
 <!--more-->
 
 <head>
-<style>
-svg {
-  width:300px;
-  height:200px;
-  border:1px solid blue;
-}
-</style>
-</head>
-<body>
   <style>
     g#svg1{animation-play-state:running;
            -webkit-animation:swinging 1s ease-in-out alternate infinite;
