@@ -1,14 +1,14 @@
 ---
-title: 想知道车子发动的秘密吗？点击这里！
 layout: page
+title: 想知道车子发动的秘密吗？点击这里！
 excerpt_separator: "<!--more-->"
-categories: 
-  - svg笔记
-tags:
-  - svg
----  
+categories:
+     - svg笔记
+---
+
 
 <!--more-->
+
 <style>
 svg {
   width:300px;
