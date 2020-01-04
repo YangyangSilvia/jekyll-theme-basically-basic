@@ -9,6 +9,7 @@ categories:
 
 <!--more-->
 
+<head>
 <style>
 svg {
   width:300px;
