@@ -3,7 +3,7 @@ title: 想知道车子发动的秘密吗？点击这里！
 layout: page
 excerpt_separator: "<!--more-->"
 categories: 
-  - svg制作
+  - svg笔记
 tags:
   - svg
 ---  
