@@ -1,16 +1,14 @@
 ---
 layout: page
-title:卟卟~~开动啦！会变颜色的外太空小车子！
+title: Bubu~~注意啦，这是一辆来自外太空的可以变换颜色的小车！
 excerpt_separator: "<!--more-->"
 categories:
      - SVG笔记
-tags:
-   - SVG
+     
 ---
 
 <!--more-->
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8"> 
